@@ -38,3 +38,4 @@ i=$(( $i + 1))
 done
 
 echo "$i times sum cnt is: $sumcnt"
+echo end
